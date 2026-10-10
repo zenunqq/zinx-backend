@@ -1,2 +1,2 @@
 # zinx-backend
-this is a ogfn backend to help u run old forntite versions from 1.11-27.00
+ A official backend that teaches you how to make backends from versions 1.7.2 - 27.11
